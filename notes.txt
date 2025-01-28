@@ -1,0 +1,9 @@
+To whoever is grading I used my own root username and pw and did not provide it . 
+If you setup mysql with python and run the jupyter notebooks everything should work just set an .env file with your username and pw
+I have included the db just to show.
+
+Also there are two jupyter notebooks
+
+lemon_db.ipynb - to create the db
+
+MenuSalesReport.ipynb - Where the procedures and everything else is
